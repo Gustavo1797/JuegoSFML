@@ -1,0 +1,11 @@
+﻿  Colicionable.cpp
+C:\Users\gusta\Desktop\JUEGO FINAL CODEBLOCK\Proyecto Final\Colicionable.h(2,10): error C1083: No se puede abrir el archivo incluir: 'SFML\Graphics.hpp': No such file or directory
+  Bala.cpp
+C:\Users\gusta\Desktop\JUEGO FINAL CODEBLOCK\Proyecto Final\Bala.h(2,10): error C1083: No se puede abrir el archivo incluir: 'SFML/Graphics.hpp': No such file or directory
+  Main.cpp
+C:\Users\gusta\Desktop\JUEGO FINAL CODEBLOCK\Proyecto Final\Main.cpp(1,10): error C1083: No se puede abrir el archivo incluir: 'SFML/Graphics.hpp': No such file or directory
+  TanquePlayer1.cpp
+C:\Users\gusta\Desktop\JUEGO FINAL CODEBLOCK\Proyecto Final\TanquePlayer1.h(3,10): error C1083: No se puede abrir el archivo incluir: 'SFML/Graphics.hpp': No such file or directory
+  TanqueRapido.cpp
+C:\Users\gusta\Desktop\JUEGO FINAL CODEBLOCK\Proyecto Final\TanqueRapido.h(2,10): error C1083: No se puede abrir el archivo incluir: 'SFML/Graphics.hpp': No such file or directory
+  Generando código...
